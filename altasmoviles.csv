@@ -1,116 +1,116 @@
-Empresa,Año,Trimestre,Número de Altas
-América Móvil Perú S.A.C.,2014,I,1665728
-Entel Perú S.A.,2014,I,179343
-Telefónica del Perú S.A.A.,2014,I,2082280
-América Móvil Perú S.A.C.,2014,II,1681935
-Entel Perú S.A.,2014,II,229202
-Telefónica del Perú S.A.A.,2014,II,2061576
-América Móvil Perú S.A.C.,2014,III,1867985
-Entel Perú S.A.,2014,III,294176
-Telefónica del Perú S.A.A.,2014,III,2080972
-Viettel Perú S.A.C.,2014,III,102370
-América Móvil Perú S.A.C.,2014,IV,1899475
-Entel Perú S.A.,2014,IV,552743
-Telefónica del Perú S.A.A.,2014,IV,2083401
-Viettel Perú S.A.C.,2014,IV,233448
-América Móvil Perú S.A.C.,2015,I,1702685
-Entel Perú S.A.,2015,I,569212
-Telefónica del Perú S.A.A.,2015,I,2003414
-Viettel Perú S.A.C.,2015,I,260347
-América Móvil Perú S.A.C.,2015,II,1731342
-Entel Perú S.A.,2015,II,579055
-Telefónica del Perú S.A.A.,2015,II,2059395
-Viettel Perú S.A.C.,2015,II,506292
-América Móvil Perú S.A.C.,2015,III,1699508
-Entel Perú S.A.,2015,III,901553
-Telefónica del Perú S.A.A.,2015,III,2379268
-Viettel Perú S.A.C.,2015,III,785809
-América Móvil Perú S.A.C.,2015,IV,1563857
-Entel Perú S.A.,2015,IV,1071798
-Telefónica del Perú S.A.A.,2015,IV,2382686
-Viettel Perú S.A.C.,2015,IV,921985
-América Móvil Perú S.A.C.,2016,I,1837361
-Entel Perú S.A.,2016,I,1134949
-Telefónica del Perú S.A.A.,2016,I,2228824
-Viettel Perú S.A.C.,2016,I,794456
-América Móvil Perú S.A.C.,2016,II,2153711
-Entel Perú S.A.,2016,II,1364950
-Telefónica del Perú S.A.A.,2016,II,2353055
-Viettel Perú S.A.C.,2016,II,1096332
-América Móvil Perú S.A.C.,2016,III,2470456
-Entel Perú S.A.,2016,III,1367126
+Empresa,AÃ±o,Trimestre,NumeroDeAltas
+AmÃ©rica MÃ³vil PerÃº S.A.C.,2014,I,1665728
+Entel PerÃº S.A.,2014,I,179343
+TelefÃ³nica del PerÃº S.A.A.,2014,I,2082280
+AmÃ©rica MÃ³vil PerÃº S.A.C.,2014,II,1681935
+Entel PerÃº S.A.,2014,II,229202
+TelefÃ³nica del PerÃº S.A.A.,2014,II,2061576
+AmÃ©rica MÃ³vil PerÃº S.A.C.,2014,III,1867985
+Entel PerÃº S.A.,2014,III,294176
+TelefÃ³nica del PerÃº S.A.A.,2014,III,2080972
+Viettel PerÃº S.A.C.,2014,III,102370
+AmÃ©rica MÃ³vil PerÃº S.A.C.,2014,IV,1899475
+Entel PerÃº S.A.,2014,IV,552743
+TelefÃ³nica del PerÃº S.A.A.,2014,IV,2083401
+Viettel PerÃº S.A.C.,2014,IV,233448
+AmÃ©rica MÃ³vil PerÃº S.A.C.,2015,I,1702685
+Entel PerÃº S.A.,2015,I,569212
+TelefÃ³nica del PerÃº S.A.A.,2015,I,2003414
+Viettel PerÃº S.A.C.,2015,I,260347
+AmÃ©rica MÃ³vil PerÃº S.A.C.,2015,II,1731342
+Entel PerÃº S.A.,2015,II,579055
+TelefÃ³nica del PerÃº S.A.A.,2015,II,2059395
+Viettel PerÃº S.A.C.,2015,II,506292
+AmÃ©rica MÃ³vil PerÃº S.A.C.,2015,III,1699508
+Entel PerÃº S.A.,2015,III,901553
+TelefÃ³nica del PerÃº S.A.A.,2015,III,2379268
+Viettel PerÃº S.A.C.,2015,III,785809
+AmÃ©rica MÃ³vil PerÃº S.A.C.,2015,IV,1563857
+Entel PerÃº S.A.,2015,IV,1071798
+TelefÃ³nica del PerÃº S.A.A.,2015,IV,2382686
+Viettel PerÃº S.A.C.,2015,IV,921985
+AmÃ©rica MÃ³vil PerÃº S.A.C.,2016,I,1837361
+Entel PerÃº S.A.,2016,I,1134949
+TelefÃ³nica del PerÃº S.A.A.,2016,I,2228824
+Viettel PerÃº S.A.C.,2016,I,794456
+AmÃ©rica MÃ³vil PerÃº S.A.C.,2016,II,2153711
+Entel PerÃº S.A.,2016,II,1364950
+TelefÃ³nica del PerÃº S.A.A.,2016,II,2353055
+Viettel PerÃº S.A.C.,2016,II,1096332
+AmÃ©rica MÃ³vil PerÃº S.A.C.,2016,III,2470456
+Entel PerÃº S.A.,2016,III,1367126
 Incacel Movil S.A.,2016,III,21799
-Telefónica del Perú S.A.A.,2016,III,2219024
-Viettel Perú S.A.C.,2016,III,1175872
-América Móvil Perú S.A.C.,2016,IV,2188947
-Entel Perú S.A.,2016,IV,1349608
+TelefÃ³nica del PerÃº S.A.A.,2016,III,2219024
+Viettel PerÃº S.A.C.,2016,III,1175872
+AmÃ©rica MÃ³vil PerÃº S.A.C.,2016,IV,2188947
+Entel PerÃº S.A.,2016,IV,1349608
 Incacel Movil S.A.,2016,IV,10048
-Telefónica del Perú S.A.A.,2016,IV,2156182
-Viettel Perú S.A.C.,2016,IV,1302928
-América Móvil Perú S.A.C.,2017,I,2175946
-Entel Perú S.A.,2017,I,1296297
+TelefÃ³nica del PerÃº S.A.A.,2016,IV,2156182
+Viettel PerÃº S.A.C.,2016,IV,1302928
+AmÃ©rica MÃ³vil PerÃº S.A.C.,2017,I,2175946
+Entel PerÃº S.A.,2017,I,1296297
 Incacel Movil S.A.,2017,I,31914
-Telefónica del Perú S.A.A.,2017,I,1735813
-Viettel Perú S.A.C.,2017,I,1355425
-América Móvil Perú S.A.C.,2017,II,2142936
-Entel Perú S.A.,2017,II,1523661
+TelefÃ³nica del PerÃº S.A.A.,2017,I,1735813
+Viettel PerÃº S.A.C.,2017,I,1355425
+AmÃ©rica MÃ³vil PerÃº S.A.C.,2017,II,2142936
+Entel PerÃº S.A.,2017,II,1523661
 Incacel Movil S.A.,2017,II,6365
-Telefónica del Perú S.A.A.,2017,II,1792330
-Viettel Perú S.A.C.,2017,II,1167822
-América Móvil Perú S.A.C.,2017,III,2455112
-Entel Perú S.A.,2017,III,1502944
+TelefÃ³nica del PerÃº S.A.A.,2017,II,1792330
+Viettel PerÃº S.A.C.,2017,II,1167822
+AmÃ©rica MÃ³vil PerÃº S.A.C.,2017,III,2455112
+Entel PerÃº S.A.,2017,III,1502944
 Incacel Movil S.A.,2017,III,588
-Telefónica del Perú S.A.A.,2017,III,1926231
-Viettel Perú S.A.C.,2017,III,1468166
-América Móvil Perú S.A.C.,2017,IV,2517827
-Entel Perú S.A.,2017,IV,1504353
+TelefÃ³nica del PerÃº S.A.A.,2017,III,1926231
+Viettel PerÃº S.A.C.,2017,III,1468166
+AmÃ©rica MÃ³vil PerÃº S.A.C.,2017,IV,2517827
+Entel PerÃº S.A.,2017,IV,1504353
 Incacel Movil S.A.,2017,IV,774
-Telefónica del Perú S.A.A.,2017,IV,2157848
-Viettel Perú S.A.C.,2017,IV,1625072
-América Móvil Perú S.A.C.,2018,I,2604769
-Entel Perú S.A.,2018,I,1480234
+TelefÃ³nica del PerÃº S.A.A.,2017,IV,2157848
+Viettel PerÃº S.A.C.,2017,IV,1625072
+AmÃ©rica MÃ³vil PerÃº S.A.C.,2018,I,2604769
+Entel PerÃº S.A.,2018,I,1480234
 Incacel Movil S.A.,2018,I,1221
-Telefónica del Perú S.A.A.,2018,I,2477991
-Viettel Perú S.A.C.,2018,I,1749630
-América Móvil Perú S.A.C.,2018,II,2581654
-Entel Perú S.A.,2018,II,1521166
+TelefÃ³nica del PerÃº S.A.A.,2018,I,2477991
+Viettel PerÃº S.A.C.,2018,I,1749630
+AmÃ©rica MÃ³vil PerÃº S.A.C.,2018,II,2581654
+Entel PerÃº S.A.,2018,II,1521166
 Incacel Movil S.A.,2018,II,2828
-Telefónica del Perú S.A.A.,2018,II,2927592
-Viettel Perú S.A.C.,2018,II,1909949
-América Móvil Perú S.A.C.,2018,III,2734837
-Entel Perú S.A.,2018,III,1582134
+TelefÃ³nica del PerÃº S.A.A.,2018,II,2927592
+Viettel PerÃº S.A.C.,2018,II,1909949
+AmÃ©rica MÃ³vil PerÃº S.A.C.,2018,III,2734837
+Entel PerÃº S.A.,2018,III,1582134
 Incacel Movil S.A.,2018,III,3733
-Telefónica del Perú S.A.A.,2018,III,2565140
-Viettel Perú S.A.C.,2018,III,1910683
-América Móvil Perú S.A.C.,2018,IV,2319408
-Entel Perú S.A.,2018,IV,1750406
+TelefÃ³nica del PerÃº S.A.A.,2018,III,2565140
+Viettel PerÃº S.A.C.,2018,III,1910683
+AmÃ©rica MÃ³vil PerÃº S.A.C.,2018,IV,2319408
+Entel PerÃº S.A.,2018,IV,1750406
 Incacel Movil S.A.,2018,IV,3462
-Telefónica del Perú S.A.A.,2018,IV,3296159
-Viettel Perú S.A.C.,2018,IV,1954947
-América Móvil Perú S.A.C.,2019,I,2378443
-Entel Perú S.A.,2019,I,1636509
+TelefÃ³nica del PerÃº S.A.A.,2018,IV,3296159
+Viettel PerÃº S.A.C.,2018,IV,1954947
+AmÃ©rica MÃ³vil PerÃº S.A.C.,2019,I,2378443
+Entel PerÃº S.A.,2019,I,1636509
 Incacel Movil S.A.,2019,I,5840
-Telefónica del Perú S.A.A.,2019,I,2900773
-Viettel Perú S.A.C.,2019,I,1831173
-América Móvil Perú S.A.C.,2019,II,2735703
-Entel Perú S.A.,2019,II,1503807
+TelefÃ³nica del PerÃº S.A.A.,2019,I,2900773
+Viettel PerÃº S.A.C.,2019,I,1831173
+AmÃ©rica MÃ³vil PerÃº S.A.C.,2019,II,2735703
+Entel PerÃº S.A.,2019,II,1503807
 Incacel Movil S.A.,2019,II,929
-Telefónica del Perú S.A.A.,2019,II,2813092
-Viettel Perú S.A.C.,2019,II,1727873
-América Móvil Perú S.A.C.,2019,III,2231077
-Entel Perú S.A.,2019,III,1331183
+TelefÃ³nica del PerÃº S.A.A.,2019,II,2813092
+Viettel PerÃº S.A.C.,2019,II,1727873
+AmÃ©rica MÃ³vil PerÃº S.A.C.,2019,III,2231077
+Entel PerÃº S.A.,2019,III,1331183
 Incacel Movil S.A.,2019,III,5422
-Telefónica del Perú S.A.A.,2019,III,2079831
-Viettel Perú S.A.C.,2019,III,1637140
-América Móvil Perú S.A.C.,2019,IV,2061585
-Entel Perú S.A.,2019,IV,1485485
+TelefÃ³nica del PerÃº S.A.A.,2019,III,2079831
+Viettel PerÃº S.A.C.,2019,III,1637140
+AmÃ©rica MÃ³vil PerÃº S.A.C.,2019,IV,2061585
+Entel PerÃº S.A.,2019,IV,1485485
 Guinea Mobile S.A.C.,2019,IV,1583
 Incacel Movil S.A.,2019,IV,6472
-Telefónica del Perú S.A.A.,2019,IV,1720417
-Viettel Perú S.A.C.,2019,IV,1536924
-América Móvil Perú S.A.C.,2020,I,1747851
-Entel Perú S.A.,2020,I,1211368
+TelefÃ³nica del PerÃº S.A.A.,2019,IV,1720417
+Viettel PerÃº S.A.C.,2019,IV,1536924
+AmÃ©rica MÃ³vil PerÃº S.A.C.,2020,I,1747851
+Entel PerÃº S.A.,2020,I,1211368
 Guinea Mobile S.A.C.,2020,I,1080
 Incacel Movil S.A.,2020,I,3552
-Telefónica del Perú S.A.A.,2020,I,1312950
-Viettel Perú S.A.C.,2020,I,1252078
+TelefÃ³nica del PerÃº S.A.A.,2020,I,1312950
+Viettel PerÃº S.A.C.,2020,I,1252078
